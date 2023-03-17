@@ -7,6 +7,8 @@ import gator from './assets/gator.svg';
 import heart from './assets/heart.svg';
 import horse from './assets/horse.svg';
 import './AnimalShow.css';
+  
+
 
 const svgMap = {
     bird,
